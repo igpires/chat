@@ -1,11 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo was created to test the Action cable. More infos [Action Cable](https://api.rubyonrails.org/v5.2.3/files/actioncable/README_md.html)
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.5.1
+
+* Rails version 5.2.3
 
 * System dependencies
 
