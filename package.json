@@ -1,5 +1,12 @@
 {
   "name": "my_chat",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:igpires/chat.git",
+  "author": "Igor Pires <pires.igor2@gmail.com>",
+  "license": "MIT"
 }
